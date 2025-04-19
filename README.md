@@ -18,6 +18,14 @@ This repository contains a fully interactive Power BI dashboard that provides in
 -  Ship-State Distribution: Top states include Maharashtra, Karnataka, Telangana, and more
 -  Date Filter: Allows custom range for sales tracking
 
+## power bi project file 
+
+
+
+
+
+
+
 ## dataset used 
 file 
 https://github.com/umeshpawak/amazon-sales-Powerbi-dashboard/blob/main/Amazon-Sales-Report-20K-Rows.xlsx
