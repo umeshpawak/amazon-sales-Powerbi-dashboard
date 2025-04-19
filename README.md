@@ -19,4 +19,5 @@ This repository contains a fully interactive Power BI dashboard that provides in
 -  Date Filter: Allows custom range for sales tracking
 
 ## dataset used 
-
+file 
+https://github.com/umeshpawak/amazon-sales-Powerbi-dashboard/blob/main/Amazon-Sales-Report-20K-Rows.xlsx
