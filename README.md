@@ -27,27 +27,27 @@ https://github.com/umeshpawak/amazon-sales-Powerbi-dashboard/blob/main/dataset%2
 
  ## Questions & Answers
  
-How much total sales did we make?
+Q.  How much total sales did we make?
 
 ₹11.45M during the selected period.
 
-What’s the current shipping status?
+Q. What’s the current shipping status?
 
 Most orders (86%) are already shipped. A few are still on the way or unshipped.
 
-Which product categories are selling the most?
+Q. Which product categories are selling the most?
 
 T-shirts dominate the list, followed by trousers and wallets.
 
-What sizes are most popular?
+Q. What sizes are most popular?
 
 M and XL are the top-selling sizes.
 
-Which states have the highest number of orders?
+Q. Which states have the highest number of orders?
 
 Maharashtra, Karnataka, and Telangana are leading.
 
-Who are the main delivery partners and fulfillment sources?
+Q. Who are the main delivery partners and fulfillment sources?
 
 Ekart and Amazon itself handle the majority of orders.
 
