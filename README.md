@@ -47,9 +47,13 @@ Ekart and Amazon itself handle the majority of orders.
 
 ## Project Workflow / Process
 Collected the raw Amazon sales dataset 
+
 Cleaned the data in Power Query — removed nulls, fixed dates, and standardized state names
+
 Built data model by connecting related fields like date, category, and fulfillment type
+
 Designed the dashboard layout with a consistent theme, using pie charts and bar graphs for clarity
+
 Added slicers and filters for date range and categories to make it interactive
 
 
