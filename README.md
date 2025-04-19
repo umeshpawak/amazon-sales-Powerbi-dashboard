@@ -28,4 +28,4 @@ This repository contains a fully interactive Power BI dashboard that provides in
 
 ## dataset used 
 file 
-https://github.com/umeshpawak/amazon-sales-Powerbi-dashboard/blob/main/Amazon-Sales-Report-20K-Rows.xlsx
+https://github.com/umeshpawak/amazon-sales-Powerbi-dashboard/blob/main/dataset%20used%20.xlsx
