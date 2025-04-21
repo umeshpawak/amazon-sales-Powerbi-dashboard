@@ -1,5 +1,4 @@
-
-# Amazon Sales Power BI Dashboard
+# 📊 Amazon Sales Power BI Dashboard
 
 This repository contains a fully interactive Power BI dashboard that provides in-depth insights into Amazon sales data. It's designed for data-driven business decisions with a clean, dynamic, and visual reporting layout.
 
